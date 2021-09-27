@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gopher5889
+- 👋 Hi, I’m @frozen599
 - 👀 I specialize in backend development
 - 🌱 I’m currently learning Go, JS, Elixir
 
